@@ -1,0 +1,250 @@
+body{
+    padding: 0 0; margin: 0 0;
+}
+.group18{
+    background-image: url(Group\ 18.png);
+    background-repeat: no-repeat; 
+    width: 100%;
+    height: 876px;
+    flex-shrink: 0;
+}
+.group1{
+    padding-top: 50px;
+    padding-left: 250px;
+    width: 10px;
+    height: 10px;
+}
+.links{
+    margin-left: 550px; 
+    margin-bottom: 250px; 
+}
+ul{
+    list-style: none; display: flex; 
+}
+a{
+    color: #FFF;
+text-align: center;
+font-family: Gotham;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -1.8px;
+    text-decoration-line: none; 
+    color: white;
+    padding-right: 150px;
+    word-spacing: 5px;
+}
+.ui{
+    width: 714px;
+height: 121px;
+flex-shrink: 0;
+    color: #FFF;
+font-family: Gotham;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -6.4px;
+}
+.ux{
+    color: #FEE043;
+font-family: Gotham;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -6.4px;
+}
+.browse{
+    width: 620px;
+height: 40px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Gotham;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+.uiux{
+    float: right;
+    position: absolute;
+    bottom: 10%;
+    left: 50%
+}
+.design{
+    width: 537px;
+height: 66px;
+flex-shrink: 0;
+color: #000;
+font-family: Gotham;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -4.8px;
+padding-left: 150px;
+}
+.bank{
+    width: 459px;
+height: 62px;
+flex-shrink: 0;
+color: #119335;
+font-family: Gotham Black;
+font-size: 58px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: -6.38px;
+float: right;
+padding-right: 280px;
+}
+.shift{
+    margin-left: 150px;
+}
+.mobile{
+    width: 663px;
+height: 62px;
+flex-shrink: 0;
+color: #232020;
+font-family: Gotham;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+letter-spacing: -1.35px;
+float: right;
+position: absolute;
+bottom: -500px;
+left: 850px;
+}
+.view{
+    width: 266px;
+height: 66px;
+flex-shrink: 0;
+    border-radius: 38px;
+background: #119335;
+width: 183px;
+height: 34px;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Gotham;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -3px;
+float: right;
+margin-top: -110px;
+margin-right: 550px;
+}
+.yolk{
+    width: 503px;
+height: 62px;
+flex-shrink: 0;
+color: #FF9F00;
+font-family: Gotham Black;
+font-size: 58px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: -2.61px;
+}
+.egg{
+    width: 663px;
+height: 62px;
+flex-shrink: 0;
+color: #232020;
+font-family: Gotham;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -1.35px;
+}
+.ADE{
+    width: 266px;
+height: 66px;
+flex-shrink: 0;
+border-radius: 38px;
+background: #202020;
+width: 183px;
+height: 34px;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Gotham;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -3px;
+}
+.mve{
+    margin-top: 170px;
+    margin-left: 120px; 
+}
+.cover{
+    float: right;
+    position: absolute;
+    left: 46%;
+    bottom: -135rem;
+}
+.phone{
+    padding-top: 170px;
+    padding-left: 60px;
+}
+.betwaka{
+    width: 459px;
+    height: 62px;
+    flex-shrink: 0;
+    color: #061EB1;
+font-family: Gotham Black;
+font-size: 58px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: -2.61px;
+float: right;
+padding-bottom: 150px;
+position: absolute;
+bottom: -1690px;
+right: 220px;
+}
+.alert{
+    width: 663px;
+height: 62px;
+flex-shrink: 0;
+color: #232020;
+font-family: Gotham;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -1.35px;
+float: right;
+position: absolute;
+bottom: -1600px;
+left: 900px
+}
+.waka{
+    width: 266px;
+height: 66px;
+flex-shrink: 0;
+border-radius: 38px;
+background: #061EB1;
+width: 183px;
+height: 34px;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Gotham;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -3px;
+float: right;
+margin-top: 510px;
+margin-right: 500px;
+}
